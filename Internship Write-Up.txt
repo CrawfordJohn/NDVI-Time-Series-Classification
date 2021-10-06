@@ -1,4 +1,6 @@
-﻿Electricity is an essential part of modern-day society. People use electricity for almost everything, washing their laundry, cooking their food, and heating and lighting up
+NDVI-Time-Series-Classification
+
+Electricity is an essential part of modern-day society. People use electricity for almost everything, washing their laundry, cooking their food, and heating and lighting up
 their homes. Because of this, when power outages occur, they can cause plenty of problems for the people affected. Collapsing trees during storms can crash down onto the power
 lines and conduct all the electricity away from them, causing a power outage. These power outages usually occur due to these taller trees being too close to the lines, so it 
 can be useful to determine possible risky areas where this could occur so communities can prepare and prevent this from happening. 
